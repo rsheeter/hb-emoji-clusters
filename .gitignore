@@ -1,0 +1,4 @@
+venv/
+harfbuzz/
+*.ttf
+emoji-test.txt
