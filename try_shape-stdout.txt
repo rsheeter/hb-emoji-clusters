@@ -14,7 +14,6 @@ U+1f1f8,U+1f1f4 bad_cluster gid0=0|gid0=1
 U+1f1e8,U+1f1ec bad_cluster gid0=0|gid0=1
 U+1f1f3,U+1f1fa bad_cluster gid0=0|gid0=1
 U+1f1ec,U+1f1f7 bad_cluster gid0=0|gid0=1
-U+1f43b,U+200d,U+2744,U+fe0f bad_cluster gid0=0|gid0=2
 U+1f1f8,U+1f1ea bad_cluster gid0=0|gid0=1
 U+1f1ec,U+1f1ed bad_cluster gid0=0|gid0=1
 U+1f1ef,U+1f1f2 bad_cluster gid0=0|gid0=1
@@ -62,7 +61,6 @@ U+1f1f8,U+1f1ff bad_cluster gid0=0|gid0=1
 U+1f1f5,U+1f1eb bad_cluster gid0=0|gid0=1
 U+1f1fb,U+1f1fa bad_cluster gid0=0|gid0=1
 U+1f1ec,U+1f1f8 bad_cluster gid0=0|gid0=1
-U+1f43b,U+200d,U+2744 bad_cluster gid0=0|gid0=2
 U+1f1f0,U+1f1fe bad_cluster gid0=0|gid0=1
 U+1f1e8,U+1f1fa bad_cluster gid0=0|gid0=1
 U+1f1f7,U+1f1ea bad_cluster gid0=0|gid0=1
@@ -259,4 +257,4 @@ U+1f1fd,U+1f1f0 bad_cluster gid0=0|gid0=1
 U+1f1f5,U+1f1f1 bad_cluster gid0=0|gid0=1
 U+1f1f9,U+1f1f7 bad_cluster gid0=0|gid0=1
 U+1f1e6,U+1f1e9 bad_cluster gid0=0|gid0=1
-260 / 4702 failures
+258 / 4702 failures
